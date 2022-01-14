@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-intro",
+  "version": "1.0.0",
+  "description": "Pirmojo projekto aprasas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasaKud/NodeJS-intro.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "npm"
+  ],
+  "author": "Rasa <rasa.kudzmaite@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasaKud/NodeJS-intro/issues"
+  },
+  "homepage": "https://github.com/RasaKud/NodeJS-intro#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.5"
+  }
+}
