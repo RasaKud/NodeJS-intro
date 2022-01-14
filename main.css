@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+
+.bg-img{
+    background-image: url(./img/bg-img.jpg);
+}
