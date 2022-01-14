@@ -4,6 +4,7 @@
   "description": "Pirmojo projekto aprasas",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
